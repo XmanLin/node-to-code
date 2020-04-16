@@ -1,0 +1,36 @@
+exports.data = [
+    {
+        folder:'home/list',
+        file:'home/list/home.js'
+    },
+    {
+        folder:'home/images'
+    },
+    {
+        folder:'home/form',
+        file:'home/form/modal.js'
+    },
+    {
+        file:'home/api.js'
+    },
+    {
+        file:'home/route.js'
+    },
+    {
+        folder:'network/list',
+        file:'network/list/index.js'
+    },
+    {
+        folder:'network/images'
+    },
+    {
+        folder:'network/form',
+        file:'network/form/modal.js'
+    },
+    {
+        file:'network/api.js'
+    },
+    {
+        file:'network/route.js'
+    }
+]

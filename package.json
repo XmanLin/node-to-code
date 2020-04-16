@@ -1,0 +1,26 @@
+{
+  "name": "node-to-code",
+  "version": "1.0.0",
+  "description": "自动生成CV代码",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/XmanLin/node-to-code.git"
+  },
+  "author": "xmanlin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/XmanLin/node-to-code/issues"
+  },
+  "homepage": "https://github.com/XmanLin/node-to-code#readme",
+  "devDependencies": {
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "dependencies": {
+    "vscode-debugadapter": "^1.40.0"
+  }
+}
