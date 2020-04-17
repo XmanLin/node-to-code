@@ -1,36 +1,44 @@
 exports.data = [
     {
+        folder:'home',
+        file:'api.js'
+    },
+    {
+        folder:'home',
+        file:'route.js'
+    },
+    {
         folder:'home/list',
-        file:'home/list/home.js'
+        file:'home.js',
+        className:'Home'
     },
     {
         folder:'home/images'
     },
     {
         folder:'home/form',
-        file:'home/form/modal.js'
+        file:'modal.js',
+        className:'homeModal'
     },
     {
-        file:'home/api.js'
+        folder:'network',
+        file:'api.js',
     },
     {
-        file:'home/route.js'
+        folder:'network',
+        file:'route.js'
     },
     {
         folder:'network/list',
-        file:'network/list/index.js'
+        file:'network.js',
+        className:'Network'
     },
     {
         folder:'network/images'
     },
     {
         folder:'network/form',
-        file:'network/form/modal.js'
-    },
-    {
-        file:'network/api.js'
-    },
-    {
-        file:'network/route.js'
+        file:'modal.js',
+        className:'networkModal'
     }
 ]
