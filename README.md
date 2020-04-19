@@ -1,7 +1,7 @@
 # node-to-code
 通过node自动生成重复的js代码
 
-首先要创建pages文件夹，下面为各文件夹（目录）的说明：
+首先要创建pages文件夹，下面为各文件的说明：
 
 - [index.js](https://github.com/XmanLin/node-to-code/blob/master/index.js)为我们的主程序，文件夹（目录）和文件的生成的程序逻辑都在里面，也是最终运行的文件
 - pages里面为我们生成的文件夹（目录）和文件
