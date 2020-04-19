@@ -9,4 +9,4 @@
     - [data.js](https://github.com/XmanLin/node-to-code/blob/master/template/data.js)为我们的配置文件，包含了文件夹（目录）和文件名称以及文件模板的参数等配置
     - [template.js](https://github.com/XmanLin/node-to-code/blob/master/template/template.js)为我们的各种文件的模板
 
-说明一下，因为我们这里是假设是在react的项目下，所以其它的文件基本上是与react相关的。上面所提到的代码逻辑与react不耦合，其它框架下也同样适用。
+说明一下，因为我们这里是假设是在react的项目下，所以其它的文件基本上是与react相关的，不用过多关注。上面所提到的代码逻辑与react不耦合，其它框架下也同样适用。
